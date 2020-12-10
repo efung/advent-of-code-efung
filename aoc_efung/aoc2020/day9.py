@@ -67,9 +67,6 @@ test_data_preamble_5 = """\
 576
 """
 
-test_data_b = """\
-"""
-
 if __name__ == "__main__":
     assert str(part_a(test_data_preamble_5, pre_len=5)) == "127"
     assert str(part_b(test_data_preamble_5, pre_len=5)) == "62"
