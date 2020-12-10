@@ -1,4 +1,4 @@
-# Advent of Code Solutions
+# Advent of Code Solutions (for 2020 onwards)
 
 These solutions are set up according to the guidelines in https://github.com/wimglenn/advent-of-code-sample
 which makes use of the `aoc` runner script.
